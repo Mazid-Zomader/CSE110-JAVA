@@ -1,4 +1,4 @@
-# Learning-Java-
+# Learning-Java
 # Hello, Welcome to My Repository!
 
 I'm currently learning the **Java programming language** and this repository is a collection of my learning journey.
