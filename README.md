@@ -1,29 +1,33 @@
-# Learning Java :coffee:
+# CSE110
+## Java Basics
+## Brac University - Spring 2024
 
-Hello there! This repository is dedicated to tracking my progress in my Java learning journey. 
+Welcome to the GitHub repository for the **Java Basics** course, **CSE110**, at **Brac University** for the **Spring 2024** semester.
 
-## About the Repository
+This course is taught in **Java** by our esteemed instructors:
+- Theory: **_**
+- Laboratory: **_** & **_**
+## ℹ️ Source
+The learning materials are primarily from YouTube(Thanks to Mr. Md. Tawhid Anwar & Mr. Md. Saiful Islam), random websites, an online course from Apna College and more.
 
-**Name:** Learning Java
+## 📝 Message from the Author
 
-**Language:** Java
+Dear students,
 
-**Institution:** This is a self-learning effort.
+I would like to take a moment to emphasize the importance of academic integrity in this course. It is crucial that the work you submit is your own. While it's perfectly fine to seek help and learn from others, **plagiarism**—the act of copying someone else's work and presenting it as your own—is strictly prohibited.
 
-**Source:** The learning materials are primarily from YouTube, an online course from Apna College and more.
+Remember, the goal of this course is not just to get a good grade, but to learn and grow as a programmer. Every assignment is an opportunity for you to improve your skills. When you plagiarize, you're only cheating yourself out of this learning experience.
 
-## Encouragement
+So, I kindly request all of you to respect the hard work of others and always give credit where it's due. Let's make this a fair and enriching journey for everyone.
 
-I strongly encourage **collaboration** in this repository. Learning is a continuous process and it becomes more enriching and fun when we do it together. If you have any suggestions, ideas, or improvements, feel free to contribute. Let's help each other grow in our Java journey. Remember, every contribution, no matter how small, is valuable and appreciated!
+Thank you for your understanding and cooperation.
 
-## Contact Information
-
-If you have any inquiries, please feel free to reach out via email. I'm always open to discussions, suggestions, and collaborations.
+For any inquiries, please feel free to reach out via email.
 
 contact.mazidzomader@gmail.com
 
-## Message from the Author
+Best regards,
 
-This repository is more than just a collection of code—it's a testament to my journey in learning Java. Each commit represents a step forward, and I'm excited to see where this path leads. I hope this repository can serve as a motivation for others on their own learning journeys. 
+**Abdullah Al Mazid Zomader**
 
-**Happy coding!**
+***Thank you***
