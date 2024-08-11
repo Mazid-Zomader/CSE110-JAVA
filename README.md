@@ -7,8 +7,11 @@ Welcome to the GitHub repository for the **Java Basics** course, **CSE110**, at 
 This course is taught in **Java** by our esteemed instructors:
 - Theory: **_**
 - Laboratory: **_** & **_**
+## 🕵Find Assignment Solves
+- Summer 2024 | Link: https://github.com/Mazid-Zomader/CSE110/tree/399baab692325edf2a7da9bd35ce527e8df8f1f1/Assignment%20Solves/SUMMER%202024%20Solves
 ## ℹ️ Source
 The learning materials are primarily from YouTube(Thanks to Mr. Md. Tawhid Anwar & Mr. Md. Saiful Islam), random websites, an online course from Apna College and more.
+
 
 ## 📝 Message from the Author
 
