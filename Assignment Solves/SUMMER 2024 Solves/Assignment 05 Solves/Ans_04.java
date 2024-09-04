@@ -10,7 +10,6 @@ public class Ans_04 {
             int start = sc.nextInt();
             System.out.print("Number of Odd Numbers: ");
             int odd = sc.nextInt();
-//            boolean flag = false;
             while (odd > 0){
                 if (start %2 != 0) {
                     sum += start ;
