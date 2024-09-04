@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ans_E01 {
+public class Ans_02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("The value of N: ");
